@@ -5,4 +5,5 @@ Java, Python, C, C++, CUDA, Arduino, PostgreSQL, Bash
 ### Libraries: 
 JavaFX, tkinter, Selenium, Flask, WinAPI, ImGui, CUB, OpenGL, C++ STL
 ### Other skills: 
-Linux, Azure, embedded systems, git, GitHub, CMake, LaTeX
+Linux (i use arch btw), Azure, embedded systems, git, GitHub, CMake, LaTeX
+
