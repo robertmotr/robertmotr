@@ -1,5 +1,5 @@
 ### About me:
-UofT CS '25, seeking fall 2024 internships. I really enjoy low-level programming, such as using CUDA to program NVIDIA GPUs (check out pixelify :D). I also like reverse-engineering and I'm into weightlifting.
+UofT CS '25, seeking fall 2024 internships. I really enjoy low-level programming, such as using CUDA to program NVIDIA GPUs (check out pixelify :D). I'm also currently learning reverse-engineering and I'm into weightlifting.
 ### Languages: 
 Java, Python, C, C++, CUDA, Arduino, SQL, Bash, RISC-V, x86 Assembly
 ### Libraries: 
