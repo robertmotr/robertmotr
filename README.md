@@ -5,5 +5,5 @@ Java, Python, C, C++, CUDA, Arduino, SQL, Bash, RISC-V assembly, x86 assembly
 ### Libraries/Frameworks: 
 JavaFX, tkinter, Selenium, Flask, WinAPI, ImGui, CUB, OpenGL, C++ STL, pthreads, GoogleTest
 ### Other skills: 
-Linux (i use arch btw), Azure, AWS, PostgreSQL, Git, GitHub, CMake, OpenMP, MPI, GDB + CUDA-GDB, Docker, IDA (newbie, but if anybody wants to accelerate my progress feel free to give me 5 grand for a licence 😉)
+Linux (i use arch btw), Azure, AWS, PostgreSQL, Git, GitHub, CMake, OpenMP, MPI, GDB + CUDA-GDB, Docker, IDA (newbie, but if anybody wants to accelerate my progress feel free to give me 5K for a licence 😉)
 
